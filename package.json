@@ -1,0 +1,10 @@
+{
+  "name": "apt-price",
+  "version": "1.0.0",
+  "description": "Apartment actual transaction price app",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
